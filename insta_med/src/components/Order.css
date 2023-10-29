@@ -1,0 +1,21 @@
+.button{
+    padding-top:5% ;
+    padding-bottom: 5%;
+    text-align: center;
+}
+.button1{
+    border-radius: 20%;
+    width: 30vmin;
+    height: 8vmin;
+    font-size: 2.8vmin;
+    background-color: hotpink;
+}
+.button1:hover{
+    background-color: crimson;
+}
+.button1:active{
+    background-color: darkturquoise;
+}
+.head{
+    padding: 2%;
+}
