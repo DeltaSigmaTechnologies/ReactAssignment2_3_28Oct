@@ -1,0 +1,36 @@
+
+.h1{
+  text-align: center;
+  color: blue;  
+  margin-top: 0%;
+  padding-top: 1.5% ;
+  font-size: 6vmin;
+}
+img{
+    width: 45%;
+    height: auto;
+    float: right;
+    border-radius: 8%;
+    padding-right: 2%;
+    padding-left: 1%;
+}
+p{
+    padding-left: 2%;
+    font-size: 4vmin;
+    text-align:center;
+}
+.dic{
+    text-align: justify;
+}
+.footer{
+    text-align: center;
+    padding-top: 5%;
+    font-size: 4vmin ;
+    justify-content: space-evenly;
+}
+.fb{
+    padding-left: 1%;
+}
+.fb:hover{
+                color: white;
+}
