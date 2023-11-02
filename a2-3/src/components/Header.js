@@ -19,6 +19,9 @@ function Header() {
                 <Link to='/employees'>
                 <Button style={{color:'white'}}>Employees</Button>
                 </Link>
+                <Link to='/contact'>
+                <Button style={{color:'white'}}>Contact us</Button>
+                </Link>
                 </Stack>
             </Toolbar>
         </AppBar>

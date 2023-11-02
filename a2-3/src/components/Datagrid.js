@@ -48,7 +48,7 @@ function Employees() {
       
   return (
     <>
-    <Box sx={{ width: '100%' }}>
+    <Box sx={{ width: '60%', marginLeft:'25%', marginTop:'5%' }}>
       <DataGrid
       autoHeight
         rows={rows}

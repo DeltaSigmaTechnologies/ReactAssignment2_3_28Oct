@@ -23,7 +23,7 @@ import React from 'react';
 //   });  
 function Home() {
     return (
-      <div>
+      <div style={{textAlign:'center', padding:'2%'}} > 
           <img src="https://img.freepik.com/free-photo/business-concept-with-team-close-up_23-2149151159.jpg" alt='company'/>
           <p><i>Company Slogan and Motto</i></p>
       </div>
