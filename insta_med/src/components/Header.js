@@ -21,6 +21,9 @@ function Header() {
               <Link to="/place-your-order">
               <Button style={{color:'white'}}><AddShoppingCartIcon />Order</Button>
               </Link>
+              <Link to="/Give-a-Feedback">
+              <Button style={{color:'white'}}>Feedback</Button>
+              </Link>
             </Stack>
         </Toolbar>
       </AppBar>
