@@ -16,9 +16,14 @@ function Header() {
                 <Link to='/'>
             <Button  style={{color:'white'}}>Home</Button>
             </Link>
+            
             <Link to='table'>
-            <Button style={{color:'white'}}>MedicineTable</Button>
+              <Button style={{color:'white'}}>MedicineTable</Button>
             </Link>
+            <Link to='appointment'>
+              <Button style={{color:'white'}}>Appointment</Button>
+            </Link>
+            
             </Stack>
         </Toolbar>
         </AppBar>
